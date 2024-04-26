@@ -1,0 +1,4 @@
+repository "Magical Clash@GrzegorzFiedorukDev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
